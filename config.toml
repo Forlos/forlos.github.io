@@ -1,0 +1,35 @@
+baseurl = "https://forlos.github.io"
+languageCode = "en"
+theme = "hugo-coder"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # This is *necessary* for ox-hugo to work well with Hugo 0.60.0+
+
+[params]
+    author = "Forlos"
+    info = "I do Reverse Engineering and Rust for fun"
+
+    hidecopyright = true
+    hidecredits = true
+
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/forlos/"
+
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    url  = "/"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+[[menu.main]]
+    name = "CV"
+    weight = 3
+    url = "/cv/"
