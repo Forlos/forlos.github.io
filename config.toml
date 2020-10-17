@@ -20,6 +20,7 @@ pygmentscodefencesguesssyntax = true
 
     hidecopyright = true
     hidecredits = true
+    colorscheme = "dark"
 
 
 [[params.social]]
