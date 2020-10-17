@@ -1,6 +1,12 @@
 baseurl = "https://forlos.github.io"
 languageCode = "en"
 theme = "hugo-coder"
+enableRobotsTXT = true
+
+paginate=20
+canonifyurls = true
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [markup]
   [markup.goldmark]
@@ -10,6 +16,7 @@ theme = "hugo-coder"
 [params]
     author = "Forlos"
     info = "I do Reverse Engineering and Rust for fun"
+    keywords = "rust,reverse engineering"
 
     hidecopyright = true
     hidecredits = true
