@@ -1,22 +1,27 @@
 baseurl = "https://forlos.github.io"
 languageCode = "en"
+defaultcontentlanguage = "en"
 theme = "hugo-coder"
 enableRobotsTXT = true
 
-paginate=20
+paginate = 20
 canonifyurls = true
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true # This is *necessary* for ox-hugo to work well with Hugo 0.60.0+
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe = true # This is *necessary* for ox-hugo to work well with Hugo 0.60.0+
+    [markup.highlight]
+    style = "dracula"
+    lineNos = true
+    lineNumbersInTable = true
+    guessSyntax = false
+
 
 [params]
     author = "Forlos"
     info = "I do Reverse Engineering and Rust for fun"
-    keywords = "rust,reverse engineering"
+    keywords = "rust,reverse engineering, visual novel"
 
     hidecopyright = true
     hidecredits = true
