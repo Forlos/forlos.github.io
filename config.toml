@@ -20,7 +20,7 @@ canonifyurls = true
 
 [params]
     author = "Forlos"
-    info = "I do Reverse Engineering and Rust for fun"
+    info = "Breaking random stuff until it works"
     keywords = "rust,reverse engineering, visual novel"
 
     hidecopyright = true
@@ -39,10 +39,10 @@ canonifyurls = true
     weight = 1
     url  = "/"
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     weight = 2
-    url  = "/posts/"
+    url  = "/posts"
 [[menu.main]]
     name = "CV"
     weight = 3
-    url = "/cv/"
+    url = "/cv"
