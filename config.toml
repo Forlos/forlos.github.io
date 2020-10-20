@@ -2,6 +2,7 @@ baseurl = "https://forlos.github.io"
 languageCode = "en"
 defaultcontentlanguage = "en"
 theme = "hugo-coder"
+title = "Breaking things for fun and no profit"
 enableRobotsTXT = true
 
 paginate = 20
@@ -17,11 +18,14 @@ canonifyurls = true
     lineNumbersInTable = true
     guessSyntax = false
 
+[taxonomies]
+    tag = "tags"
+
 
 [params]
     author = "Forlos"
     info = "Breaking random stuff until it works"
-    keywords = "rust,reverse engineering, visual novel"
+    keywords = "rust, reverse engineering, visual novel, programming, hacking"
 
     hidecopyright = true
     hidecredits = true
@@ -43,6 +47,10 @@ canonifyurls = true
     weight = 2
     url  = "/posts"
 [[menu.main]]
-    name = "CV"
+    name = "Tags"
     weight = 3
+    url  = "/tags"
+[[menu.main]]
+    name = "CV"
+    weight = 10
     url = "/cv"

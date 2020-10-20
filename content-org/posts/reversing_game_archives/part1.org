@@ -1,0 +1,12 @@
+#+hugo_base_dir: ../../../
+#+hugo_section: /posts/reversing_game_archives
+#+hugo_auto_set_lastmod: t
+
+#+hugo_draft: true
+#+hugo_tags: "reverse engineering"
+
+#+title: Reverse engineering game archives - part 1 Basic archive
+
+* Tools used in this episode
+- Some hexdump tool: =hexdump= for linux or [[https://mh-nexus.de/en/downloads.php?product=HxD20][=HxD=]] for windows
+- Your favourite scripting language (I will use python)
