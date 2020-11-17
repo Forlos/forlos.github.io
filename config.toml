@@ -51,6 +51,10 @@ canonifyurls = true
     weight = 3
     url  = "/tags"
 [[menu.main]]
+    name = "Nice"
+    weight = 4
+    url = "/nice"
+[[menu.main]]
     name = "CV"
     weight = 10
     url = "/cv"

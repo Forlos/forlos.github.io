@@ -1,0 +1,18 @@
+#+hugo_base_dir: ../
+#+hugo_section: /
+#+hugo_auto_set_lastmod: t
+
+#+title: Nice things
+
+* Nice channels
+- https://www.youtube.com/c/GynvaelEN security low-level
+- https://www.youtube.com/user/gamozolabs really-low-level security rust
+* Nice streams
+- https://www.twitch.tv/gamozo really-low-level security rust
+* Nice blogs
+- https://fasterthanli.me/ rust low-level tutorials rants
+* Nice books
+- [[https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441][Hacking: The Art of Exploitation, 2nd Edition]] low-level binary-exploitation
+- [[https://nostarch.com/malware][Practical Malware Analysis]] malware reverse-engineering
+* Nice blog posts
+- https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/ CPU cache memory benchmarks
