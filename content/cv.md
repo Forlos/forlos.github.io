@@ -19,7 +19,7 @@ draft = false
 ## Experience {#experience}
 
 - _**Backend developer**_ - Kalamba Games <br />
-  _June 2019 - December 2020_
+  _June 2019 - November 2020_
   - Developing microservices
   - Maintaining kubernetes clusters and microservice architecture
   - Implementing 3rd party API integrations
