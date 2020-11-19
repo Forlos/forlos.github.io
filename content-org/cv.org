@@ -1,7 +1,34 @@
 #+hugo_base_dir: ../
 #+hugo_section: /
-#+hugo_auto_set_lastmod: t
+#+OPTIONS: toc:nil num:nil author:nil date:nil
+#+LATEX_HEADER: \usepackage{nopageno,indentfirst}
 
-#+title: Curriculum vitae
+#+title: CV
 
-Nothing to see there :)
+* Personal information
+- Name: Paweł Smulski
+- Birthdate: 28.06.1999
+- Residence: Poland
+* Expertise
+- *Programming*: \\
+    rust, java, python, x86 asm (reverse engineering)
+- *Tools*: \\
+    git, linux, windows, gcp, aws, k8s, helm, grpc, hex-reys ida, x64dbg, gdb
+* Experience
+- /*Backend developer*/ - Kalamba Games \\
+    /June 2019 - December 2020/
+  + Developing microservices
+  + Maintaining kubernetes clusters and microservice architecture
+  + Implementing 3rd party API integrations
+  + *Tech stack*: java, spring boot, k8s, grpc, kafka, postgres, elasticsearch, gcp, aws, do
+  + *Industry*: casino games provider
+* Languages
+- Polish
+- English
+* Interests
+- Cybersecurity(reverse engineering and binary exploitation)
+- Low level programming
+- (E)skateboarding
+* Links
+- https://github.com/forlos
+- https://forlos.github.io
