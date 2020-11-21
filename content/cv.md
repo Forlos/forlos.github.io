@@ -8,6 +8,7 @@ draft = false
 - Name: Paweł Smulski
 - Birthdate: 28.06.1999
 - Residence: Poland
+- Contact info: forlos@disroot.org
 
 ## Expertise {#expertise}
 
