@@ -16,3 +16,5 @@
 - [[https://nostarch.com/malware][Practical Malware Analysis]] malware reverse-engineering
 * Nice blog posts
 - https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/ CPU cache memory benchmarks
+* Nice other
+- https://www.eicar.org/?page_id=3950 anti-virus-software

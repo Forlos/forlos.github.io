@@ -1,27 +1,33 @@
 #+hugo_base_dir: ../
 #+hugo_section: /
-#+OPTIONS: toc:nil num:nil author:nil date:nil
+#+OPTIONS: toc:nil num:nil author:nil date:nil ^:nil
 #+LATEX_HEADER: \usepackage{nopageno,indentfirst}
-
+#+LATEX_HEADER: \hypersetup{colorlinks=true,linkcolor=cyan,urlcolor=blue}
 #+title: CV
 
 * Personal information
 - Name: Paweł Smulski
 - Birthdate: 28.06.1999
 - Residence: Poland
-- Contact info: forlos@disroot.org
+- Contact info: 
+  - Email: forlos@disroot.org
+  - Phone: On demand
 * Expertise
 - *Programming*: \\
     rust, java, python, x86 asm (reverse engineering)
 - *Tools*: \\
-    git, linux, windows, gcp, aws, k8s, helm, grpc, hex-reys ida, x64dbg, gdb
+    git, linux, windows, gcp, aws, k8s, helm, grpc, hex-reys ida, x64dbg
+
+Various open source projects mostly written in Rust:
+- [[https://github.com/Forlos/vn_re][vn_re]]/[[https://github.com/Forlos/akaibu][akaibu]] - python/rust \\
+  Reverse engineering visual novels archive and resource file formats.
 * Experience
 - /*Backend developer*/ - Kalamba Games \\
     /June 2019 - November 2020/
   + Developing microservices
   + Maintaining kubernetes clusters and microservice architecture
   + Implementing 3rd party API integrations
-  + *Tech stack*: java, spring boot, k8s, grpc, kafka, postgres, elasticsearch, gcp, aws, do
+  + *Tech stack*: java, spring boot, k8s, grpc, kafka, postgres, elasticsearch, prometheus, gcp, aws, do
   + *Industry*: casino games provider
 * Languages
 - Polish

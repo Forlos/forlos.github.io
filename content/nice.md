@@ -1,6 +1,6 @@
 +++
 title = "Nice things"
-lastmod = 2020-11-17T16:08:37+01:00
+lastmod = 2020-11-28T18:33:34+01:00
 draft = false
 +++
 
@@ -25,3 +25,7 @@ draft = false
 ## Nice blog posts {#nice-blog-posts}
 
 - <https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/> CPU cache memory benchmarks
+
+## Nice other {#nice-other}
+
+- <https://www.eicar.org/?page%5Fid=3950> anti-virus-software
