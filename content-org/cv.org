@@ -23,7 +23,7 @@ Various open source projects mostly written in Rust:
   Reverse engineering visual novels archive and resource file formats.
 * Experience
 - /*Backend developer*/ - Kalamba Games \\
-    /June 2019 - November 2020/
+    /June 2019 - December 2020/
   + Developing microservices
   + Maintaining kubernetes clusters and microservice architecture
   + Implementing 3rd party API integrations
